@@ -1,0 +1,16 @@
+#formtable{
+    border: 2px solid black;
+    box-shadow: 1px 2px 4px blue;
+    width: auto;
+    margin: auto;
+    font-size:large;
+    background-color:aliceblue;
+    padding:50px;
+}
+#formtable input{
+    font-size:17px;
+    box-shadow: 1px 2px 4px skyblue;
+}
+#formtable td,tr{
+    padding:10px;
+}

@@ -1,0 +1,15 @@
+#booktable{
+    border: 2px solid purple;
+    background-color: palegreen;
+    font-size:large;
+    text-align:center;
+    width:40%;
+    box-shadow:1px 2px 7px purple;
+    margin:auto;
+
+}
+#booktable tr,#booktable td{
+    padding:5px;
+    border:2px solid white;
+
+}
